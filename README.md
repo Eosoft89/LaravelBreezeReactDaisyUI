@@ -15,7 +15,7 @@ Para crear tu propia instalación:
     ```
 - Luego, ejecuta el comando >npm install && npm run dev
 
-Siguiendo estos pasos, podremos utilizar cuaquier componente de DaisyUI en nuestra aplicación monolítica, además, no interferirá con los componentes y construcciones que Breeze trae por defecto, ya que ambos utilizar Tailwind CSS.
+Siguiendo estos pasos, podremos utilizar cuaquier componente de DaisyUI en nuestra aplicación monolítica, además, no interferirá con los componentes y construcciones que Breeze trae por defecto, ya que ambos utilizan Tailwind CSS.
 
 También, podrás seguir utilizando Tailwind independiente de DaisyUI sin problemas.
 
