@@ -19,7 +19,7 @@ Siguiendo estos pasos, podremos utilizar cuaquier componente de DaisyUI en nuest
 
 También, podrás seguir utilizando Tailwind independiente de DaisyUI sin problemas.
 
-- Este proyecto incluye una página de prueba accesible desde localhost/daisyui
+- Este proyecto incluye una página de prueba accesible desde localhost/daisyui.
 
 ## License
 
