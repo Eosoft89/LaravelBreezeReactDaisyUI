@@ -6,7 +6,7 @@ Para hacer tu propia instalación:
 - Crea un nuevo proyecto Laravel, que incluya Breeze (react).
 - Una vez terminado el scaffolding, instala DaisyUI dentro de la carpeta raíz del proyecto.
 - Con npm, ejecuta el comando >npm i -D daisyui@latest
-- Para más info [](https://daisyui.com/docs/install/).
+- Para más info https://daisyui.com/docs/install/.
 - Agrega el 'require' para las herramientas de DaisyUI en el archivo tailwind.config.js (en el apartado 'plugins').
 - Por defecto, debería quedar: 
     
@@ -17,7 +17,7 @@ Siguiendo estos pasos, podremos utilizar cuaquier componente de DaisyUI en nuest
 
 También, podrás seguir utilizando Tailwind independiente de DaisyUI sin problemas.
 
-# Este proyecto incluye una página de prueba accesible desde http://localhost/daisyui
+Este proyecto incluye una página de prueba accesible desde localhost/daisyui
 
 ## License
 
